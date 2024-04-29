@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">First lana application</string>
+    <string name="create">CREATE AN ACCOUNT</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repeatedPassword">Repeat the password</string>
+    <string name="hide">Hide password</string>
+    <string name="show">Show password</string>
+    <string name="register">Registration</string>
+    <string name="login">LOGIN TO YOUR ACCOUNT</string>
+    <string name="into">Login</string>
+    <string name="success_log">You successfully logged into the system</string>
+    <string name="logout">Logout</string>
+
+</resources>
